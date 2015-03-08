@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\bin\Debug\AGuru2.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\bin\Debug\AGuru2.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\bin\Debug\AGuru2.xml
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\obj\x86\Debug\AGuru2.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\obj\x86\Debug\AGuru2.FormAbsen.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\obj\x86\Debug\AGuru2.FormJam.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\obj\x86\Debug\AGuru2.FormLogin.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\obj\x86\Debug\AGuru2.FormMenu.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\obj\x86\Debug\AGuru2.FormRecordGuru.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\obj\x86\Debug\AGuru2.FormRekapAbsensi.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\obj\x86\Debug\AGuru2.FormSistem.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\obj\x86\Debug\AGuru2.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\obj\x86\Debug\AGuru2.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\obj\x86\Debug\AGuru2.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\obj\x86\Debug\AGuru2.xml
+C:\Users\HP\Documents\Visual Studio 2010\Projects\AGuru2\AGuru2\obj\x86\Debug\AGuru2.pdb
