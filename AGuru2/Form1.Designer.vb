@@ -151,5 +151,5 @@ Partial Class Form1
     Friend WithEvents NIPTxt As System.Windows.Forms.TextBox
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Label1 As System.Windows.Forms.Label
-
+fffff
 End Class
